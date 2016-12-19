@@ -4,7 +4,11 @@ $.fullCalendar.locale("id", {
 		month: "Bulan",
 		week: "Minggu",
 		day: "Hari",
-		list: "Agenda"
+		list: "Agenda",
+		listDay: "Harian",
+		listWeek: "Mingguan",
+		listMonth: "Bulanan",
+		listYear: "Tahunan"
 	},
 	allDayHtml: "Sehari<br/>penuh",
 	eventLimitText: "lebih",
